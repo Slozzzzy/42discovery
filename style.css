@@ -206,6 +206,7 @@ img {
     margin: 0 auto;
     list-style: none;
     width: 100%;
+}
 .contenner{
     min-height: 30vh;
     display: flex;
