@@ -111,11 +111,12 @@ img {
 }
 .about{
     width: 100%;
-    padding: 50px 0px;
+    padding-bottom: 20%;
     background-color: rgb(204, 204, 204);
 }
 .about-text{
    font-size: 24px;
+   padding-top: 5%;
 }
 .main{
     width: 80%;
@@ -205,16 +206,12 @@ img {
     margin: 0 auto;
     list-style: none;
     width: 100%;
-}
-.typing{
+.contenner{
     min-height: 30vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #162e60;
-    overflow: hidden;
-}
-.contenner{
     overflow: hidden;
 }
 .contenner .text{
